@@ -1,0 +1,5 @@
+**/.idea/*
+!**/.idea/vcs.xml
+Contact-Management-System-Backend/.mvn/Contact-Management-System-Backend/mvnw
+Contact-Management-System-Backend/mvnw.cmd
+Contact-Management-System-Backend/.mvn/wrapper/
